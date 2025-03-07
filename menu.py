@@ -44,4 +44,4 @@ def calculadora():
             print("Opção inválida. Tente novamente.")
 
 # Chamar a função para iniciar a calculadora
-calculadora() 
+calculadora()
