@@ -45,3 +45,4 @@ def calculadora():
 
 # Chamar a função para iniciar a calculadora
 calculadora()
+fsfdsf
